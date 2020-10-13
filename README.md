@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Visual%20Studio%20code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
-[![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org)
-[![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/Hexo-0E83CD?style=flat-square&logo=Hexo&logoColor=ffffff)](https://hexo.io)
 [![](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org)
 
 #### Console&Game
