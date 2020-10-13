@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Audio--Technica-WS660BT-000000?style=flat-square&logo=Audio-Technica)](https://www.audio-technica.com.cn/index.php?op=productdetails&pid=1207&cid=30&sid=50)
 
 [![](https://img.shields.io/badge/Visual%20Studio%20code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
-[![](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org)
 
 #### Console&Game
 [![](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=xbox)](https://www.xbox.com/zh-hk)
