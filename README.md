@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 #### Platform&Devices&Tools
-[![](https://img.shields.io/badge/Windows-10%202004-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/software-download/windows10)
+[![](https://img.shields.io/badge/Windows-10%20Pro-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/software-download/windows10)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://cn.ubuntu.com/download)
 
 [![](https://img.shields.io/badge/Intel-i5--9400F-0071C5?style=flat-square&logo=intel)](https://ark.intel.com/content/www/cn/zh/ark/products/190883/intel-core-i5-9400f-processor-9m-cache-up-to-4-10-ghz.html)
