@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com)
 
 #### Console&Game
-[![](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=xbox)](https://www.xbox.com/zh-hk)
+[![](https://img.shields.io/badge/Xbox-MinoriKnight-107C10?style=flat-square&logo=xbox)](https://www.trueachievements.com/gamer/MinoriKnight)
 [![](https://img.shields.io/badge/Steam-夏露恩-000000?style=flat-square&logo=steam)](https://steamcommunity.com/id/xrunes)
 
 #### About
