@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/NVIDIA-RTX%202060-76B900?style=flat-square&logo=NVIDIA)](https://www.nvidia.cn/geforce/graphics-cards/rtx-2060/)
 [![](https://img.shields.io/badge/TOSHIBA-P300%203TB-FF0000?style=flat-square&logo=TOSHIBA)](https://toshiba-semicon-storage.com/cn/canvio/product/internal/p300.html)
 
-[![](https://img.shields.io/badge/Redmi-Note%207-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote7)
+<!--[![](https://img.shields.io/badge/Redmi-Note%207-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote7)-->
+[![](https://img.shields.io/badge/Redmi-Note%209-FA6709?style=flat-square&logo=Xiaomi)](https://www.mi.com/redminote9-4g)
 [![](https://img.shields.io/badge/Raspberry%20Pi-4B-C51A4A?style=flat-square&logo=Raspberry%20Pi)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 [![](https://img.shields.io/badge/Audio--Technica-WS660BT-000000?style=flat-square&logo=Audio-Technica)](https://www.audio-technica.com.cn/index.php?op=productdetails&pid=1207&cid=30&sid=50)
 
